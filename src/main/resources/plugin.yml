@@ -1,0 +1,6 @@
+name: ZombieHealth
+version: '${version}'
+main: ru.example.zombiehealth.ZombieHealthPlugin
+api-version: '26.2'
+description: Увеличивает здоровье спавнящихся зомби до случайного значения в заданном диапазоне.
+author: example
